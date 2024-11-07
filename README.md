@@ -4,7 +4,7 @@ Were you aware that non-organic items can contain substantial pesticide residues
 
 Our commitment to quality is evident in our strict standards, with over 500 ingredients on our "never" list. From artificial food dyes to additives, we scrutinize every product we produce and sell to ensure they are not only healthy for you but also for the environment
 
-## Working Web App can be found here
+## Working Website can be found here
 
 https://dipendrafruitcompany.in/
 
